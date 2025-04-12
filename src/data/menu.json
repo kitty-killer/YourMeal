@@ -94,7 +94,7 @@
             {
                 "id": "30",
                 "name": "Классическая шаурма",
-                "img": "/src/assets/menuImgs/shaurma/classic.jpg",
+                "img": "/src/assets/menuImgs/shaurma/beef.jpg",
                 "weight": "350",
                 "price": "320",
                 "amount": "1",
@@ -105,7 +105,7 @@
             {
                 "id": "31",
                 "name": "Острая шаурма",
-                "img": "/src/assets/menuImgs/shaurma/hot.jpg",
+                "img": "/src/assets/menuImgs/shaurma/cheese.jpg",
                 "weight": "370",
                 "price": "350",
                 "amount": "1",
@@ -163,7 +163,7 @@
             {
                 "id": "51",
                 "name": "Овощной вок",
-                "img": "/src/assets/menuImgs/wok/vegetable.jpg",
+                "img": "/src/assets/menuImgs/wok/beef.jpg",
                 "weight": "380",
                 "price": "400",
                 "amount": "1",
@@ -221,7 +221,7 @@
             {
                 "id": "71",
                 "name": "Майонез",
-                "img": "/src/assets/menuImgs/sauces/mayonnaise.jpg",
+                "img": "/src/assets/menuImgs/sauces/garlic.jpg",
                 "weight": "50",
                 "price": "50",
                 "amount": "1",
