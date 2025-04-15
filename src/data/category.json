@@ -1,0 +1,11 @@
+[
+  { "title": "burger", "rus": "Бургеры", "image": "/srs/assets/imgNavigation/burger.png" },
+  { "title": "snack", "rus": "Закуски", "image": "/srs/assets/imgNavigation/snack.png" },
+  { "title": "hot-dog", "rus": "Хот-доги", "image": "/srs/assets/imgNavigation/hot-dog.png" },
+  { "title": "combo", "rus": "Комбо", "image": "/srs/assets/imgNavigation/combo.png" },
+  { "title": "shawarma", "rus": "Шаурма", "image": "/srs/assets/imgNavigation/shawarma.png" },
+  { "title": "pizza", "rus": "Пицца", "image": "/srs/assets/imgNavigation/pizza.png" },
+  { "title": "wok", "rus": "Вок", "image": "/srs/assets/imgNavigation/wok.png" },
+  { "title": "dessert", "rus": "Десерты", "image": "a/srs/assets/imgNavigation/dessert.png" },
+  { "title": "sauce", "rus": "Соусы", "image": "/srs/assets/imgNavigation/sauce.png" }
+]
